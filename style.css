@@ -22,7 +22,28 @@ nav ul li a:hover{
 div img{
     margin-top: 10%;
     margin-left: 10px;
+    
 }
-h1{
-    margin-left: 20px 10px;
+aside{
+    width: 60%;
+  padding-left: 15px;
+  margin-left: 15px;
+  margin-top: -18%;
+  margin-right: 6px;
+  float: right;
+  font-style: italic;
+  background-color: lightgray;
+  text-align: center;
+  
+
+}
+aside p{
+    font-size: 4rem;
+}
+.dog{
+    clear: both;
+}
+
+aside:hover{
+    background-color: white;
 }
