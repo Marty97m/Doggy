@@ -18,5 +18,8 @@ nav ul li a:hover{
     padding: 10px 15px 10px 15px;
         color: white;
         background-color:rgb(218, 29, 29);
-        border-radius: 100px;
+        border-radius: 100px}
+div img{
+    margin-top: 10%;
+    margin-left: 10px;
 }
