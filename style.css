@@ -136,4 +136,14 @@ div a{
 .footer a:hover{
     color: red;
 }
+#contact{
+    margin-left: 25%;
+    font-family: 'Dancing Script',cursive;
 
+}
+    
+
+
+#contact img{
+    border-radius: 50%;
+}
