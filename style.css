@@ -64,10 +64,10 @@ div a{
     text-decoration: none;
 }
 .signup{
-    margin-top: 20%;
+    margin-top: -4%;
     width: 100%;
     height: 300px;
-    background-color:lightgray ;
+    
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
     text-align: center;
@@ -88,7 +88,7 @@ div a{
 .signup input{
     padding: 10px 30px;
     border-radius: 2px;
-    border: 1px solid  red;
+    border: 1px solid black;
     
 }
 .button input{
@@ -103,6 +103,7 @@ div a{
     background-color: white;
     color: red;
     
+    
 }
 .signup input:hover{
     border: 1px solid red;
@@ -115,8 +116,3 @@ div a{
 
 }
 
-.contact{
-    width: 100%;
-    height: 300px;
-    margin: 20%;
-}
