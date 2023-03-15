@@ -20,7 +20,7 @@ nav ul li a:hover{
         background-color:rgb(218, 29, 29);
         border-radius: 100px}
 div img{
-    margin-top: 10%;
+    margin-top: 3%;
     margin-left: 10px;
     
 }
@@ -46,4 +46,19 @@ aside p{
 
 aside:hover{
     background-color: white;
+}
+aside p:hover{
+    color: red;
+}
+h1{
+    font-size: 3rem;
+    text-transform: uppercase;
+    font-family: 'Dancing Script',cursive;;
+  background-color: white;
+    padding: 10px 10px;
+    color: red;
+    margin-left: 12px;
+}
+div a{
+    text-decoration: none;
 }
